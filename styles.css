@@ -1,0 +1,17 @@
+body{
+    width: auto;
+}
+table{
+    text-align: center;
+    align:center;
+}
+
+td {
+  font-family: Baskerville, serif;
+  font-size: 100px;
+  text-align: center;
+  border: 3px solid black;
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}
